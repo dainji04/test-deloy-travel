@@ -1,0 +1,1 @@
+import{_ as o}from"./Pagination.vue_vue_type_style_index_0_lang-DmUczMS9.js";import{d as e,b as t,i as a,o as n}from"./index-CeAsNBH7.js";const s={class:"contact"},m=e({__name:"Blog",setup(c){return(_,i)=>(n(),t("div",s,[a(o,{title:"Blog",link:["home","blog"],pagination:["Homepage","Blog"]})]))}});export{m as default};
