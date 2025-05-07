@@ -1,0 +1,1 @@
+import{d as o,c as t,a as n,o as a}from"./index-CfFr6Gr-.js";const s={class:"container"},i=o({__name:"Dashboard",setup(r){return(c,e)=>(a(),t("div",s,e[0]||(e[0]=[n("h1",null,"Welcome to Admin Panel",-1),n("p",null,"This is the main content.",-1)])))}});export{i as default};

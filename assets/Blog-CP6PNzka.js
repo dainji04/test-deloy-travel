@@ -1,0 +1,1 @@
+import{P as o}from"./Pagination-DjPtX7OY.js";import{d as e,c as t,i as a,o as n}from"./index-CfFr6Gr-.js";const c={class:"contact"},p=e({__name:"Blog",setup(s){return(i,r)=>(n(),t("div",c,[a(o,{title:"Blog",link:["home","blog"],pagination:["Homepage","Blog"]})]))}});export{p as default};
